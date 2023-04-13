@@ -15,6 +15,8 @@
 
 ## Contact me
 - 📫 **werkszymon@gmail.com**
+- <a href="https://linkedin.com/in/szymonwerk" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymonwerk" height="20" width="30" />LinkedIn</a>
+</p>
 
 <br>
 
