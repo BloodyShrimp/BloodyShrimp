@@ -6,7 +6,7 @@
 ## About me
 
 - 💼 Working as a Data Engineer
-- 👨‍🎓 Third year CS student at Jagiellonian University
+- 👨‍🎓 Fourth year CS student at Jagiellonian University
 - 🗾 Learning Japanese
 - 🤖 Interested in artificial intelligence
 
