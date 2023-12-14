@@ -5,9 +5,8 @@
 
 ## About me
 
-- 💼 Looking for work
+- 💼 Working as a Data Engineer
 - 👨‍🎓 Third year CS student at Jagiellonian University
-- 🌱 Currently learning Angular
 - 🗾 Learning Japanese
 - 🤖 Interested in artificial intelligence
 
