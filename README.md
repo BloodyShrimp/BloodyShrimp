@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Szymon</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center">Backend Software Engineer at IBM</h3>
 
 <br>
 
 ## About me
 
-- 💼 Working as a Data Engineer
+- 💼 Working as a Software Engineer
 - 👨‍🎓 Fourth year CS student at Jagiellonian University
 - 🗾 Learning Japanese
 - 🤖 Interested in artificial intelligence
@@ -14,7 +14,7 @@
 
 ## Contact me
 - 📫 **werkszymon@gmail.com**
-- <a href="https://linkedin.com/in/szymonwerk" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymonwerk" height="20" width="30" />LinkedIn</a>
+- <a href="https://linkedin.com/in/szymonwerk" target="blank"><img align="bottom" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="szymonwerk" height="15" width="15" />LinkedIn</a>
 </p>
 
 <br>
