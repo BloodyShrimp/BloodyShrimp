@@ -5,10 +5,9 @@
 
 ## About me
 
-- 💼 Working as a Software Engineer
-- 👨‍🎓 Fourth year CS student at Jagiellonian University
+- 💼 Working as a Software Engineer at IBM
+- 👨‍🎓 Fifth year CS student at Jagiellonian University
 - 🗾 Learning Japanese
-- 🤖 Interested in artificial intelligence
 
 <br>
 
