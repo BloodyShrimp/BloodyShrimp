@@ -6,7 +6,6 @@
 ## About me
 
 - 💼 Working as a Software Engineer at IBM
-- 👨‍🎓 Fifth year CS student at Jagiellonian University
 - 🗾 Learning Japanese
 
 <br>
